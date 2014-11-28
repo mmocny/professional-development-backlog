@@ -9,3 +9,9 @@ Just a personal list of projects that @mmocny finds interesting, and I should fi
 ## Sync Storage
 
 * CouchDB + [PouchDB](http://pouchdb.com/)
+
+## Cloud
+
+* BigQuery
+* Data Flows
+* Docker & Kubernetes
